@@ -16,4 +16,4 @@ Then:
 
 The sample runs on .NET 4.6. You can easily port it to .NET Core with just a couple of tweaks.
 
-You can build on these samples using the documentation no the FireText [website](https://www.firetext.co.uk/docs).
+You can build on these samples using the documentation on the FireText [website](https://www.firetext.co.uk/docs).
